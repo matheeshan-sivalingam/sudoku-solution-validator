@@ -2,7 +2,7 @@
 
 ## Introduction
 For this lab, we were tasked to design a multithreaded application that determines whether the
-solution to a Sudoku puzzle is valid. A sudoku solver algorithm was first implemented to solve
+solution to a sudoku puzzle is valid. A sudoku solver algorithm was first implemented to solve
 the sudoku puzzle written on Lab3 puzzle.txt. This algorithm did not use threading to solve the
 puzzle however a multithreaded approach was implemented when validating the solution.
 
